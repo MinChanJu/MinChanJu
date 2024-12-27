@@ -1,5 +1,7 @@
 # 안녕하세요, MinChanJu입니다! 👋
 
+- 포트폴리오 : https://minchanju.github.io/portfolio/
+
 ![프로필 조회수](https://komarev.com/ghpvc/?username=MinChanJu)
 
 ## 소개
@@ -8,7 +10,7 @@
 
 - 🌱 현재 **Unity**를 배우고 있습니다
 - 👯 **오픈 소스 프로젝트**에 협업하고 싶습니다
-- 💬 웹 개발, JavaScript 또는 기술 관련 질문을 환영합니다
+- 💬 웹 개발 또는 기술 관련 질문을 환영합니다
 - 📫 연락 방법: **mcj00220077@gmail.com**
 
 ## 기술
@@ -16,6 +18,21 @@
 - **언어:** JavaScript, Python, Java, C, C++, C#, Dart, HTML, CSS, TypeScript
 - **프레임워크 & 라이브러리:** React, Node.js, Unity, Spring Boot
 - **도구 & 플랫폼:** Git, Docker, Netlify, CloudType
+
+## BAEKJOON
+
+### Python
+[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=chany0207)](https://www.acmicpc.net/user/chany0207)
+
+
+### JAVA
+[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mcj0207)](https://www.acmicpc.net/user/mcj0207)
+
+### C++
+[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mcj8592)](https://www.acmicpc.net/user/mcj8592)
+
+### C언어
+[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=chany8592)](https://www.acmicpc.net/user/chany8592)
 
 ## GitHub 통계
 
