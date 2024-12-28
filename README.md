@@ -21,26 +21,40 @@
 
 ## BAEKJOON
 
-### Python
-[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=chany0207)](https://www.acmicpc.net/user/chany0207)
+<div style="display: flex; gap: 30px;">
+    <div style="flex: 1; width: 100%; text-align: center;">
+        <div>Python</div>
+        <a href="https://www.acmicpc.net/user/chany0207"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chany0207" alt="img"></a>
+    </div>
+    <div style="flex: 1; width: 100%; text-align: center;">
+        <div>JAVA</div>
+        <a href="https://www.acmicpc.net/user/mcj0207"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mcj0207" alt="img"></a>
+    </div>
+</div>
 
-
-### JAVA
-[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mcj0207)](https://www.acmicpc.net/user/mcj0207)
-
-### C++
-[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mcj8592)](https://www.acmicpc.net/user/mcj8592)
-
-### C언어
-[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=chany8592)](https://www.acmicpc.net/user/chany8592)
+<div style="display: flex; gap: 30px;">
+    <div style="flex: 1; width: 100%; text-align: center;">
+        <div>C++</div>
+        <a href="https://www.acmicpc.net/user/mcj8592"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mcj8592" alt="img"></a>
+    </div>
+    <div style="flex: 1; width: 100%; text-align: center;">
+        <div>C언어</div>
+        <a href="https://www.acmicpc.net/user/chany8592"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chany8592" alt="img"></a>
+    </div>
+</div>
 
 ## GitHub 통계
 
-![MinChanJu의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical)
-
-## 사용 언어
-
-![사용 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical)
+<div style="display: flex; gap: 30px;">
+    <div style="flex: 1; width: 100%; text-align: center;">
+        <div>C++</div>
+        <img src="https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical" alt="img">
+    </div>
+    <div style="flex: 1; width: 100%; text-align: center;">
+        <div>C언어</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical" alt="img">
+    </div>
+</div>
 
 ## 프로젝트
 
@@ -49,18 +63,3 @@
 
 
 프로필을 방문해 주셔서 감사합니다! 좋은 하루 되세요! 😊
-
-<!--
-**MinChanJu/MinChanJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
