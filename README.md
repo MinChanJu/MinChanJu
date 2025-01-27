@@ -81,7 +81,7 @@
 
 | GitHub Stats | GitHub Most Language |
 | :-: | :-: |
-| ![BAEKJOON_PYTHON_TIER](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical) | ![BAEKJOON_JAVA_TIER](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical) |
+| ![BAEKJOON_PYTHON_TIER](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical&cache_seconds=10) | ![BAEKJOON_JAVA_TIER](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical) |
 
 </div>
 
