@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f50000,100:6dfde0&height=240&text=Min%20Chan%20Ju&animation=twinkling&fontColor=1d5&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f50000,100:6dfde0&height=200&text=Min%20Chan%20Ju&animation=twinkling&fontColor=1d5&fontSize=60)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Min+Chan+Ju;Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50">
@@ -6,6 +6,14 @@
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/mini/generate_badge?boj=chany0207)](https://solved.ac/chany0207)
 ![Github 방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinChanJu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)
+
+<div align= "center">
+<img
+  src="https://render.gitanimals.org/farms/MinChanJu"
+  width="600"
+  height="300"
+/>
+</div>
 
 <h2 style="border-bottom: 1px solid #d8dee4;"> 🧑‍💻 소개 </h2>
 
@@ -77,12 +85,6 @@
 
 </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4;"> 📽️ 프로젝트 </h2>
-
-- **[프로젝트 1](https://github.com/MinChanJu/CRUD):** spring boot를 이용한 웹 개발
-- **[프로젝트 2](https://github.com/MinChanJu/mic-react):** react를 이용한 웹 개발
-
-
 프로필을 방문해 주셔서 감사합니다! 좋은 하루 되세요! 😊
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
