@@ -9,7 +9,7 @@
 
 <div align= "center">
 <img
-  src="https://render.gitanimals.org/guilds/1/draw"
+  src="https://render.gitanimals.org/farms/MinChanJu"
   width="600"
   height="300"
 />
