@@ -7,14 +7,6 @@
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/mini/generate_badge?boj=chany0207)](https://solved.ac/chany0207)
 ![Github 방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinChanJu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)
 
-<div align= "center">
-<img
-  src="https://render.gitanimals.org/farms/MinChanJu"
-  width="600"
-  height="300"
-/>
-</div>
-
 <h2 style="border-bottom: 1px solid #d8dee4;"> 🧑‍💻 소개 </h2>
 
 저는 웹 개발, 오픈 소스 기여 및 지속적인 학습에 열정을 가진 소프트웨어 개발자입니다. 복잡한 문제를 해결하고, 차이를 만드는 프로젝트를 구축하는 것을 즐깁니다.
@@ -81,10 +73,20 @@
 
 | GitHub Stats | GitHub Most Language |
 | :-: | :-: |
-| ![BAEKJOON_PYTHON_TIER](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical&cache_seconds=10) | ![BAEKJOON_JAVA_TIER](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical) |
+| ![BAEKJOON_PYTHON_TIER](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical&cache_seconds=60) | ![BAEKJOON_JAVA_TIER](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical) |
 
 </div>
 
 프로필을 방문해 주셔서 감사합니다! 좋은 하루 되세요! 😊
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+<div align= "center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MinChanJu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/MinChanJu"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1d5&height=150&section=footer)
