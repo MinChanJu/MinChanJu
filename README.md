@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f50000,100:6dfde0&height=200&text=Min%20Chan%20Ju&animation=twinkling&fontColor=1d5&fontSize=60)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Min+Chan+Ju;Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.demolab.com/?lines=Min+Chan+Ju;Full+Stack+Developer&font=Fira%20Code&size=30&duration=2000&pause=1000&color=BE58F7&center=true&width=380&height=50">
 </p>
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/mini/generate_badge?boj=chany0207)](https://solved.ac/chany0207)
@@ -11,11 +11,10 @@
 
 저는 웹 개발, 오픈 소스 기여 및 지속적인 학습에 열정을 가진 소프트웨어 개발자입니다. 복잡한 문제를 해결하고, 차이를 만드는 프로젝트를 구축하는 것을 즐깁니다.
 
-- 🌱 현재 **Unity**를 배우고 있습니다
-- 👯 **오픈 소스 프로젝트**에 협업하고 싶습니다
-- 💬 웹 개발 또는 기술 관련 질문을 환영합니다
+- 👯 다양한 **프로젝트**에 협업하고 싶습니다
+- 💬 웹 개발 또는 기술 관련 질문 환영합니다
 - 📫 연락 방법: **mcj00220077@gmail.com**
-- 포트폴리오 : https://minchanju.github.io/portfolio/
+- 📃 포트폴리오 : https://minchanju.github.io/portfolio/
 
 <h2 style="border-bottom: 1px solid #d8dee4;"> 🛠️ 기술 </h2>
 <h2> 언어 </h2> 
@@ -77,7 +76,15 @@
 
 </div>
 
-프로필을 방문해 주셔서 감사합니다! 좋은 하루 되세요! 😊
+<br>
+<br>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=프로필을+방문해+주셔서+감사합니다!;좋은+하루+되세요!+😊&font=Fira%20Code&duration=2000&pause=1000&color=F7F11F&center=true&width=380&height=50">
+</p>
+
+<br>
+<br>
 
 <div align= "center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MinChanJu&utm_content=farm">
