@@ -1,5 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f50000,100:6dfde0&height=200&text=Min%20Chan%20Ju&animation=twinkling&fontColor=1d5&fontSize=60)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f50000,100:6dfde0&height=200&text=Min%20Chan%20Ju&animation=twinkling&fontColor=1d5&fontSize=60" alt="Header">
+
+<img style="pointer-events: none;" src="https://capsule-render.vercel.app/api?type=waving&color=0:f50000,100:6dfde0&height=200&text=Min%20Chan%20Ju&animation=twinkling&fontColor=1d5&fontSize=60" alt="Header">
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Min+Chan+Ju;Full+Stack+Developer&font=Fira%20Code&size=30&duration=2000&pause=1000&color=BE58F7&center=true&width=380&height=50">
 </p>
