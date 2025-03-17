@@ -1,0 +1,54 @@
+Suppose we have following file system:
+
+JAVA
+├── test
+│   ├── app
+│   │   └── EmployeeTest.java
+│   └── example
+│       └── Employee.java
+
+
+Now in the command prompt or terminal we want to be in the Java folder 
+
+eg:
+ashok@iknow-gold:/hdd1/ashok/JAVA$
+
+
+now we will run these commands:
+
+1.
+
+javac test/example/Employee.java
+
+
+2. 
+
+javac test/app/EmployeeTest.java
+
+3. 
+
+java test.app.EmployeeTest
+
+
+
+
+RUNNING THE EXAMPLE IN MY PC:
+
+(promptashok) ashok@iknow-gold:/hdd1/ashok/JAVA$ javac test/example/Employee.java
+(promptashok) ashok@iknow-gold:/hdd1/ashok/JAVA$ javac test/app/EmployeeTest.java
+(promptashok) ashok@iknow-gold:/hdd1/ashok/JAVA$ java test.app.EmployeeTest
+
+
+RESULTS:
+Name: Kim Lee
+SSN: 123-45-6789
+Hire Date: Sun Apr 21 14:52:22 UTC 2024
+
+Name: Wooyeon Choi
+SSN: 987-65-4321
+Hire Date: Sun Apr 21 14:52:22 UTC 2024
+
+Name: Antoni Cook
+SSN: 456-78-9012
+Hire Date: Sun Apr 21 14:52:22 UTC 2024
+

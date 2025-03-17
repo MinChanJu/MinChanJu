@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="/">뒤로가기</a>
+    <table>
+        <thead>
+            <tr>
+                <th>번호</th>
+                <th>이름</th>
+                <th>비밀번호</th>
+                <th>전화번호</th>
+                <th>생성날짜</th>
+                <th>수정</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="user : ${users}">
+                <td th:text="${user.id}"></td>
+                <td th:text="${user.userName}"></td>
+                <td th:text="${user.userPw}"></td>
+                <td th:text="${user.phoneNumber}"></td>
+                <td th:text="${user.createdAt}"></td>
+                <td>
+                    <form action="/update" method="post">
+                        <input type="hidden" th:value="${user.id}" name="id" id="id">
+                        <input type="text" name="userName" id="userName" placeholder="이름" required>
+                        <br>
+                        <input type="text" name="userPw" id="userPw" placeholder="비밀번호" required>
+                        <br>
+                        <input type="text" name="phoneNumber" id="phoneNumber" placeholder="전화번호">
+                        <br>
+                        <button type="submit">제출</button>
+                    </form>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="/">뒤로가기</a>
+    <form action="/read" method="post">
+        <input type="text" name="userName" id="userName" required>
+        <button type="submit">제출</button>
+    </form>
+    <div th:if="${error}" style="color: red;">
+        <span th:text="${error}"></span>
+    </div>
+    <div>
+        <span>이름 : </span>
+        <span th:text="${user != null ? user.userName : '아이디와 비밀번호를 입력하세요'}"></span>
+    </div>
+</body>
+</html>

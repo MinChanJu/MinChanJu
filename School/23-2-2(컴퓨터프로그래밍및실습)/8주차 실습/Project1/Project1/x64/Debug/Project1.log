@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\chany\OneDrive - Ajou University\수학과\2023-2-2\컴퓨터프로그래밍및실습 (F024-1)\Visual Studio\8주차 실습\Project1\Project1\FileName.cpp(13,7): error C2440: '=': 'const char [29]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\chany\OneDrive - Ajou University\수학과\2023-2-2\컴퓨터프로그래밍및실습 (F024-1)\Visual Studio\8주차 실습\Project1\Project1\FileName.cpp(13,7):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  

@@ -1,0 +1,463 @@
+----- 독자 1 도서관 목록 -----
+----------- 독자 1 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+----------- 독자 3 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+----------- 독자 2 -----------
+
+편집자 2가 책을 추가했습니다: [ID: 1] Book-1 by Author-1.
+편집자 1가 책을 추가했습니다: [ID: 0] Book-0 by Author-0.
+편집자 3가 책을 추가했습니다: [ID: 2] Book-2 by Author-2.
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+----------- 독자 3 -----------
+
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+----------- 독자 2 -----------
+
+편집자 1가 책을 추가했습니다: [ID: 3] Book-3 by Author-3.
+편집자 3가 책을 추가했습니다: [ID: 4] Book-4 by Author-4.
+편집자 2가 책을 추가했습니다: [ID: 5] Book-5 by Author-5.
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+----------- 독자 3 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+----------- 독자 2 -----------
+
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+----------- 독자 1 -----------
+
+편집자 1가 책을 추가했습니다: [ID: 6] Book-6 by Author-6.
+편집자 3가 책을 추가했습니다: [ID: 7] Book-7 by Author-7.
+편집자 2가 책을 추가했습니다: [ID: 7] Book-7 by Author-7.
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+----------- 독자 2 -----------
+
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+----------- 독자 1 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+----------- 독자 3 -----------
+
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+----------- 독자 2 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+----------- 독자 3 -----------
+
+편집자 1가 책을 추가했습니다: [ID: 9] Book-9 by Author-9.
+편집자 2가 책을 추가했습니다: [ID: 10] Book-10 by Author-10.
+편집자 3가 책을 추가했습니다: [ID: 11] Book-11 by Author-11.
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+----------- 독자 2 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+----------- 독자 3 -----------
+
+편집자 1가 책을 추가했습니다: [ID: 12] Book-12 by Author-12.
+편집자 2가 책을 추가했습니다: [ID: 13] Book-13 by Author-13.
+편집자 3가 책을 추가했습니다: [ID: 14] Book-14 by Author-14.
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+----------- 독자 2 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+----------- 독자 3 -----------
+
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+----------- 독자 2 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+----------- 독자 3 -----------
+
+편집자 2가 책을 추가했습니다: [ID: 15] Book-15 by Author-15.
+편집자 1가 책을 추가했습니다: [ID: 16] Book-16 by Author-16.
+편집자 3가 책을 추가했습니다: [ID: 17] Book-17 by Author-17.
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+[ID: 15] Book-15 by Author-15
+[ID: 16] Book-16 by Author-16
+[ID: 17] Book-17 by Author-17
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+[ID: 15] Book-15 by Author-15
+[ID: 16] Book-16 by Author-16
+[ID: 17] Book-17 by Author-17
+----------- 독자 2 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+[ID: 15] Book-15 by Author-15
+[ID: 16] Book-16 by Author-16
+[ID: 17] Book-17 by Author-17
+----------- 독자 3 -----------
+
+편집자 2가 책을 추가했습니다: [ID: 18] Book-18 by Author-18.
+편집자 1가 책을 추가했습니다: [ID: 18] Book-18 by Author-18.
+편집자 3가 책을 추가했습니다: [ID: 19] Book-19 by Author-19.
+
+----- 독자 1 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+[ID: 15] Book-15 by Author-15
+[ID: 16] Book-16 by Author-16
+[ID: 17] Book-17 by Author-17
+[ID: 18] Book-18 by Author-18
+[ID: 19] Book-19 by Author-19
+----------- 독자 1 -----------
+
+
+----- 독자 2 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+[ID: 15] Book-15 by Author-15
+[ID: 16] Book-16 by Author-16
+[ID: 17] Book-17 by Author-17
+[ID: 18] Book-18 by Author-18
+[ID: 19] Book-19 by Author-19
+----------- 독자 2 -----------
+
+
+----- 독자 3 도서관 목록 -----
+[ID: 0] Book-0 by Author-0
+[ID: 1] Book-1 by Author-1
+[ID: 2] Book-2 by Author-2
+[ID: 3] Book-3 by Author-3
+[ID: 4] Book-4 by Author-4
+[ID: 5] Book-5 by Author-5
+[ID: 6] Book-6 by Author-6
+[ID: 7] Book-7 by Author-7
+[ID: 7] Book-7 by Author-7
+[ID: 9] Book-9 by Author-9
+[ID: 10] Book-10 by Author-10
+[ID: 11] Book-11 by Author-11
+[ID: 12] Book-12 by Author-12
+[ID: 13] Book-13 by Author-13
+[ID: 14] Book-14 by Author-14
+[ID: 15] Book-15 by Author-15
+[ID: 16] Book-16 by Author-16
+[ID: 17] Book-17 by Author-17
+[ID: 18] Book-18 by Author-18
+[ID: 19] Book-19 by Author-19
+----------- 독자 3 -----------

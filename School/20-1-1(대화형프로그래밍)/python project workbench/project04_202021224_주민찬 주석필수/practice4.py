@@ -1,0 +1,5 @@
+number=int(input('7~9자리 정수를 입력하세요 : '))
+a=str(number%1000)
+b=str(number%1000000//1000)
+c=str(number//1000000)
+print('입력한 ' + str(number) + '의 값은 ' + c + ',' + b + ',' + a + '와 같이 출력된다')

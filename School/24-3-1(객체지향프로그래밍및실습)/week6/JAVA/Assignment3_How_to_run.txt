@@ -1,0 +1,25 @@
+The assignment 3 is in test3 folder.
+
+so if you are in the JAVA folder, then you can run following command to run the program.
+
+1.
+javac test3/Square.java
+
+2.
+javac test3/Main.java
+
+3.
+java test3/Main
+
+
+
+Eg:
+
+(promptashok) ashok@iknow-gold:/hdd1/ashok/JAVA$ javac test3/Square.java
+(promptashok) ashok@iknow-gold:/hdd1/ashok/JAVA$ javac test3/Main.java
+(promptashok) ashok@iknow-gold:/hdd1/ashok/JAVA$ java test3/Main
+
+THE RESULTS:
+
+Perimeter: 16.0
+Area: 16.0
