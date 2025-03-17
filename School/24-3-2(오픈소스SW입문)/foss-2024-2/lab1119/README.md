@@ -1,4 +1,0 @@
-# vitae
-BongCheon
-GuAhm
-SungBo

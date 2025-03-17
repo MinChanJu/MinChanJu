@@ -1,3 +1,0 @@
-﻿  ChatGPT.c
-C:\Users\chany\OneDrive - Ajou University\수학과\2023-2-2\컴퓨터프로그래밍및실습 (F024-1)\Visual Studio\8주차 실습\ChatGPT-과제8\ChatGPT-과제8\ChatGPT.c(33,9): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  ChatGPT-과제8.vcxproj -> C:\Users\chany\OneDrive - Ajou University\수학과\2023-2-2\컴퓨터프로그래밍및실습 (F024-1)\Visual Studio\8주차 실습\ChatGPT-과제8\x64\Debug\ChatGPT-과제8.exe
