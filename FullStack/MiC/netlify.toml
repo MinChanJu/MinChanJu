@@ -1,0 +1,112 @@
+[build]
+  publish = "resources"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/test"
+  to = "/test/test.html"
+  status = 200
+
+[[redirects]]
+  from = "/group"
+  to = "/html/group.html"
+  status = 200
+
+[[redirects]]
+  from = "/board"
+  to = "/html/board.html"
+  status = 200
+
+[[redirects]]
+  from = "/search"
+  to = "/html/search.html"
+  status = 200
+
+[[redirects]]
+  from = "/user"
+  to = "/html/user.html"
+  status = 200
+
+[[redirects]]
+  from = "/user/contest"
+  to = "/html/my_contest.html"
+  status = 200
+
+[[redirects]]
+  from = "/user/problem"
+  to = "/html/my_problem.html"
+  status = 200
+
+[[redirects]]
+  from = "/modify"
+  to = "/html/edit_userInfo.html"
+  status = 200
+
+[[redirects]]
+  from = "/password/change"
+  to = "/html/change_password.html"
+  status = 200
+
+[[redirects]]
+  from = "/user/management"
+  to = "/html/user_list.html"
+  status = 200
+
+[[redirects]]
+  from = "/contest"
+  to = "/html/contest_list.html"
+  status = 200
+
+[[redirects]]
+  from = "/problem"
+  to = "/html/problem_list.html"
+  status = 200
+
+[[redirects]]
+  from = "/problem/add"
+  to = "/html/make_problem.html"
+  status = 200
+
+[[redirects]]
+  from = "/problem/new"
+  to = "/html/new_problem.html"
+  status = 200
+
+[[redirects]]
+  from = "/contest/open"
+  to = "/html/make_contest.html"
+  status = 200
+
+[[redirects]]
+  from = "/contest/*"
+  to = "/html/open_contest.html"
+  status = 200
+
+[[redirects]]
+  from = "/problem/*"
+  to = "/html/open_problem.html"
+  status = 200
+
+[[redirects]]
+  from = "/login"
+  to = "/html/login.html"
+  status = 200
+
+[[redirects]]
+  from = "/register"
+  to = "/html/register.html"
+  status = 200
+
+[[redirects]]
+  from = "/index"
+  to = "/html/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/html/index.html"
+  status = 200
