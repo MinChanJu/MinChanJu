@@ -1,0 +1,12 @@
+# ninja log v5
+302	586	7566671820000000	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8172de4f44adf9c3
+588	1193	7566671822800000	D:/Unity/TowerDefense/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/60uh6047/obj/arm64-v8a/libswappywrapper.so	9baafdcacd77c77c
+7	1519	7566671840000000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ab1d18d9e213d5b0
+117	1573	7566671840000000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	eddcc0939549e524
+184	1585	7566671840000000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3d9428cad4778f11
+218	1673	7566671840000000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	395bb1a44f27f62b
+78	1772	7566671840000000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cc0bc2584be90408
+259	1792	7566671840000000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	15f7d0aea03436f2
+96	1938	7566671840000000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	41d7a1caa37abd4a
+46	2118	7566671840000000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4ad5d389e919fb5c
+2118	2542	7566671836400000	D:/Unity/TowerDefense/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/60uh6047/obj/arm64-v8a/libgame.so	227ee3280bbfcebc
