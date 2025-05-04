@@ -4,9 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Min+Chan+Ju;Full+Stack+Developer&font=Fira%20Code&size=30&duration=2000&pause=1000&color=BE58F7&center=true&width=380&height=50">
 </p>
 
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/mini/generate_badge?boj=chany0207)](https://solved.ac/chany0207)
-![Github 방문자수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinChanJu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)
-
 <h2 style="border-bottom: 1px solid #d8dee4;"> 🧑‍💻 소개 </h2>
 
 저는 오픈 소스 기여 및 지속적인 학습에 열정을 가진 소프트웨어 개발자입니다. 복잡한 문제를 해결하고, 차이를 만드는 프로젝트를 구축하는 것을 즐깁니다.
@@ -16,7 +13,7 @@
 - 📃 포트폴리오 : https://minchanju.github.io/portfolio/
 
 <h2 style="border-bottom: 1px solid #d8dee4;"> 🛠️ 기술 </h2>
-<h2> 언어 </h2> 
+<h3> 언어 </h3> 
 <div align= "center">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
@@ -28,26 +25,33 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Csharp-02569B?style=plastic&logo=sharp&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-2496ED?style=plastic&logo=Dart&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-2496ED?style=plastic&logo=SQLite&logoColor=white">
 </div>
 <br>
-<h2> 프레임워크 & 라이브러리 </h2>
+<h3> 프레임워크 & 라이브러리 </h3>
 <div align= "center">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-6DBAA?style=plastic&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-02569B?style=plastic&logo=Unity&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-64A?style=plastic&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-02128B?style=plastic&logo=Unity&logoColor=white">
+     <img src="https://img.shields.io/badge/Django-02543B?style=plastic&logo=Django&logoColor=white">
+     
 </div>
 <br>
-<h2> 도구 & 플랫폼 </h2>
+<h3> 도구 & 플랫폼 </h3>
 <div align= "center">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=Netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub Pages-222222?style=plastic&logo=GitHub Pages&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=plastic&logo=GitHubPages&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/CloudType-181717?style=plastic&logo=cloudinary&logoColor=white">
+    <img src="https://img.shields.io/badge/CloudType-147?style=plastic&logo=cloudinary&logoColor=white">
+    <img src="https://img.shields.io/badge/Intellij-717?style=plastic&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/PyCharm-182477?style=plastic&logo=pycharm&logoColor=white">
+    <img src="https://img.shields.io/badge/Supabase-18171?style=plastic&logo=supabase&logoColor=white">
 </div>
 <br>
 
@@ -71,7 +75,7 @@
 
 | GitHub Stats | GitHub Most Language |
 | :-: | :-: |
-| ![BAEKJOON_PYTHON_TIER](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical&cache_seconds=60) | ![BAEKJOON_JAVA_TIER](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical) |
+| ![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=MinChanJu&show_icons=true&theme=radical&cache_seconds=60) | ![GitHub_Most_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MinChanJu&layout=compact&theme=radical) |
 
 </div>
 
